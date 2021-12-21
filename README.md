@@ -1,9 +1,8 @@
 # NotesApp
 
 **Developed in 2020** <br />
-for college project <br /><br />
 
-*A Java GUI based notes app, developed for college project*<br />
+*A Java GUI based notes app*<br />
 
 **Screenshots**
 
